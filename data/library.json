@@ -1,0 +1,226 @@
+[
+  {
+    "image_id": "img_001",
+    "file_name": "street_001.jpg",
+    "width": 1280,
+    "height": 720,
+    "objects": [
+      {
+        "category": "car",
+        "bbox_xywh": [
+          110,
+          320,
+          260,
+          180
+        ],
+        "difficult": false,
+        "truncated": false
+      },
+      {
+        "category": "person",
+        "bbox_xywh": [
+          460,
+          260,
+          80,
+          220
+        ],
+        "difficult": false,
+        "truncated": false
+      }
+    ]
+  },
+  {
+    "image_id": "img_002",
+    "file_name": "crosswalk_014.jpg",
+    "width": 1920,
+    "height": 1080,
+    "objects": [
+      {
+        "category": "person",
+        "bbox_xywh": [
+          210,
+          410,
+          96,
+          280
+        ],
+        "difficult": false,
+        "truncated": false
+      },
+      {
+        "category": "person",
+        "bbox_xywh": [
+          640,
+          430,
+          94,
+          268
+        ],
+        "difficult": false,
+        "truncated": false
+      },
+      {
+        "category": "traffic_light",
+        "bbox_xywh": [
+          1540,
+          80,
+          52,
+          148
+        ],
+        "difficult": true,
+        "truncated": false
+      }
+    ]
+  },
+  {
+    "image_id": "img_003",
+    "file_name": "parkinglot_007.jpg",
+    "width": 1600,
+    "height": 900,
+    "objects": [
+      {
+        "category": "car",
+        "bbox_xywh": [
+          98,
+          372,
+          220,
+          146
+        ],
+        "difficult": false,
+        "truncated": false
+      },
+      {
+        "category": "car",
+        "bbox_xywh": [
+          402,
+          360,
+          232,
+          155
+        ],
+        "difficult": false,
+        "truncated": false
+      },
+      {
+        "category": "truck",
+        "bbox_xywh": [
+          820,
+          320,
+          360,
+          220
+        ],
+        "difficult": false,
+        "truncated": true
+      }
+    ]
+  },
+  {
+    "image_id": "img_004",
+    "file_name": "bike_lane_022.jpg",
+    "width": 1366,
+    "height": 768,
+    "objects": [
+      {
+        "category": "bicycle",
+        "bbox_xywh": [
+          540,
+          318,
+          180,
+          196
+        ],
+        "difficult": false,
+        "truncated": false
+      },
+      {
+        "category": "person",
+        "bbox_xywh": [
+          565,
+          248,
+          98,
+          248
+        ],
+        "difficult": false,
+        "truncated": false
+      }
+    ]
+  },
+  {
+    "image_id": "img_005",
+    "file_name": "bus_stop_003.jpg",
+    "width": 1280,
+    "height": 720,
+    "objects": [
+      {
+        "category": "bus",
+        "bbox_xywh": [
+          300,
+          210,
+          560,
+          314
+        ],
+        "difficult": false,
+        "truncated": false
+      },
+      {
+        "category": "person",
+        "bbox_xywh": [
+          180,
+          286,
+          86,
+          218
+        ],
+        "difficult": false,
+        "truncated": false
+      },
+      {
+        "category": "person",
+        "bbox_xywh": [
+          960,
+          298,
+          76,
+          208
+        ],
+        "difficult": false,
+        "truncated": false
+      }
+    ]
+  },
+  {
+    "image_id": "img_006",
+    "file_name": "intersection_019.jpg",
+    "width": 2048,
+    "height": 1152,
+    "objects": [
+      {
+        "category": "car",
+        "bbox_xywh": [
+          940,
+          510,
+          270,
+          170
+        ],
+        "difficult": false,
+        "truncated": false
+      },
+      {
+        "category": "motorcycle",
+        "bbox_xywh": [
+          700,
+          560,
+          160,
+          130
+        ],
+        "difficult": false,
+        "truncated": false
+      },
+      {
+        "category": "traffic_light",
+        "bbox_xywh": [
+          300,
+          90,
+          58,
+          152
+        ],
+        "difficult": false,
+        "truncated": false
+      }
+    ]
+  }
+]
